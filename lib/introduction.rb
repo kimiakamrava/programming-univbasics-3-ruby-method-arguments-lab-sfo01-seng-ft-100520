@@ -1,8 +1,8 @@
 
 
-def introduction (name ="kimia")
+def introduction (name ="Josh")
 
-puts "Hi,my name is #{name}."
+puts "Hi, my name is #{name}."
 end
 
 introduction 
