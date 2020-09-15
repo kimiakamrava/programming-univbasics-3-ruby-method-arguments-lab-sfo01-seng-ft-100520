@@ -1,8 +1,8 @@
 name="kimia"
 
-def introduction param
+def introduction (name="kimia")
 
-puts"Hi,my name is #{param}.!"
+puts"Hi,my name is #{name}."
 end
 
 introduction name
