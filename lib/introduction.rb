@@ -4,8 +4,8 @@ def introduction parameters
 end
 introduction name
 
-language="ruby" name
-def introduction_with_language param
+
+def introduction_with_language 
   puts "Hi,my name is #
   
 end
