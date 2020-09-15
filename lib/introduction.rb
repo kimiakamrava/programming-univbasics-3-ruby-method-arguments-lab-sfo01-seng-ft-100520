@@ -1,5 +1,11 @@
 name="kimia"
 
+def introduction param
+
+puts"Hi,my name is #{param}.!"
+end
+
+introduction name
 
 
 
