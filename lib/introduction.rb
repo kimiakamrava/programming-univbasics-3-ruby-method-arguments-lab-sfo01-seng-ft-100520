@@ -12,8 +12,9 @@ def introduction_with_language (name="kimia",language="ruby")
 end
 
 def introduction_with_language_optional(name= "Alice" , language= "Ruby")
-  puts 
-
+  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+end
+introduction_with_language_optional
 
 
 
