@@ -7,12 +7,11 @@ end
 
 introduction 
 
-
-
-
 def introduction_with_language (name="kimia",language="ruby")
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
+
+
 
 
 
